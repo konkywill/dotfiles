@@ -1,6 +1,17 @@
 # dotfiles
 My dotfiles for assorted apps and wms
 
+Included dotfiles for:
+*i3wm (i3-gaps if you uncomment the gaps section)
+
+*qutebrowser
+
+*alacritty
+
+*ranger
+
+*polybar
+
 # How to install:
  `cd ~/.config`
  
