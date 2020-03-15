@@ -3,7 +3,9 @@ My dotfiles for assorted apps and wms
 
 # How to install:
  `cd ~/.config`
+ 
  `git clone https://github.com/konkywill/dotfiles.git `
+ 
  `mv ~/.config/.alacritty.yml ~/`
 
 
