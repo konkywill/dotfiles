@@ -16,6 +16,7 @@ Included dotfiles for:
  `cd ~/.config`
  
  `git clone https://github.com/konkywill/dotfiles.git `
+ `mv ~/.config/dotfiles/* ~/.config`
  
  `mv ~/.config/.alacritty.yml ~/`
 
